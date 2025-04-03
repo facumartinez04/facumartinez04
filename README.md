@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Soy un apasionado por la programacion<br><br>📚 Actualmente estoy estudiando Ingenieria en Sistemas (3er Año) - 27 materias aprobadas<br><br>🎯 Las metas que tengo para un futuro es poder estar al 100% y aprender lo que mas pueda.</p>
+<p align="left">✨ Soy un apasionado por la programacion<br><br>📚 Actualmente estoy estudiando Ingenieria en Sistemas (4to Año) - 31 materias aprobadas<br><br>🎯 Las metas que tengo para un futuro es poder estar al 100% y aprender lo que mas pueda.</p>
 
 ###
 
